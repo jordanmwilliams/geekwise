@@ -1,0 +1,20 @@
+{
+  "name": "yesY",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jordanmwilliams/geekwise",
+  "authors": [
+    "jordanmwilliams <williams.jordan.m@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "~0.2.10"
+  }
+}
